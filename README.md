@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <a href="mailto:sousageovana.r@gmail.com">
+  <a href="mailto:gdsr10@aluno.ifnmg.edu.br">
     <img src="https://img.shields.io/badge/-Email-ffcce7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
