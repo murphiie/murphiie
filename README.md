@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murphiie&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ffb6c1&title_color=ffb6c1" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murphiie&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ff69b4&currStreakLabel=ffb6c1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=murphiie&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murphiie&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
