@@ -18,7 +18,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ffcce7?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-ff99cc?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-ffccf9?style=for-the-badge&logo=linux&logoColor=white" />
